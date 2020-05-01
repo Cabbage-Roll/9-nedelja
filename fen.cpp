@@ -3,6 +3,8 @@
 
 using namespace std;
 
+using namespace DinString;
+
 class Abs{
 public:
     int getTemperaturu()const;
